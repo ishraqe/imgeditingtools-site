@@ -24,7 +24,7 @@ Most online image tools today:
 This project was built to offer a simple, fast, and privacy-first alternative.
 
 ### 🚀 Live Demo
-👉 https://imgeditingtools.com
+👉 [https://tinyimagekit.com/](https://www.tinyimagekit.com/)
 
 ### Available Online Image Tools
 - Free image compressor online
